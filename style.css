@@ -3,14 +3,14 @@ body {
 }
 
 header{
-	background: #BBBBBB;
+	background: linear-gradient(#E6228D, #EBBAF8);
 	padding: 20px 0;
 
 }
 
 .caixa {
 	position: relative;
-	width: 940px;
+	width: 1120px;
 	margin: 0 auto;
 
 }
